@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nume": "George",
+        "rol": "DIRECTOR",
+        "MovieId": null
+    },
+    {
+        "id": 2,
+        "nume": "Ionica",
+        "rol": "DIRECTOR",
+        "MovieId": null
+    },
+    {
+        "id": 3,
+        "nume": "Georgeta",
+        "rol": "WRITER",
+        "MovieId": null
+    },
+    {
+        "id": 1,
+        "titlu": "The Nun",
+        "data": "1999-12-31T22:00:00.000Z",
+        "categorie": "horror"
+    },
+    {
+        "id": 2,
+        "titlu": "Titanic",
+        "data": "2000-01-31T22:00:00.000Z",
+        "categorie": "romance"
+    },
+    {
+        "id": 3,
+        "titlu": "2 barbati si jumatate",
+        "data": "2010-01-31T22:00:00.000Z",
+        "categorie": "comedy"
+    }
+]
